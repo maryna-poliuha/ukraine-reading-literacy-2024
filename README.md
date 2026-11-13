@@ -16,7 +16,6 @@
 - [SQL-запити та перевірка якості даних](sql/analysis.sql)
 - [Повний дашборд у PDF](dashboard/Reading_Literacy_Dashboard.pdf)
 - [Графіки](images/)
-- [Інструкція з публікації](PUBLISHING_GUIDE.md)
 
 **Джерело:** [УЦОЯО, звіти й відкриті дані ЗЗМЯПО-2024](https://testportal.gov.ua/zvity-dani-2/).
 
